@@ -8,21 +8,23 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # Information about me
 
-I'm Margaux Gaillard, a french PhD student and my project is named "Development of security inks with integrated coding for the protection of cultural goods".
-I'm working under the co-direction of Jérôme Plain and Julien Proust within the L2n laboratory (Light nanomaterials and nanotechnology CNRS-EMR 7004).
+I'm Margaux Gaillard, a french PhD student and my project is named "_Development of security inks with integrated coding for the protection of cultural goods_".
+I'm working under the co-direction of _Jérôme Plain_ and _Julien Proust_ within the _L2n laboratory_ (Light nanomaterials and nanotechnology CNRS-EMR 7004).
 
 # Scientific activities
 ## Publications
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+
 
 ## Scientific comunications
 
 ## Research organization
 
 ### Header 3
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
 ```js
 // Javascript code with syntax highlighting.
