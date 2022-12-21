@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
-### Margaux Gaillard
 
-### Small image
+Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
