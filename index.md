@@ -7,7 +7,7 @@ layout: default
 Small picture of me ;)
 
 
-[Link to download my CV](./another-page.html).
+[Link to download my resume](./another-page.html).
 
 # Information about me
 
