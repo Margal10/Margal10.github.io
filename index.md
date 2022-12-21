@@ -3,11 +3,10 @@ layout: default
 ---
 
 
-
 Small picture of me ;)
 
 
-[Link to view my resume](.docs/CV-MargauxGaillard.pdf).
+[Link to view my resume.](https://github.com/Margal10/Margal10.github.io/files/10278796/CV-MargauxGaillard.pdf)
 
 
 # Information about me
@@ -48,3 +47,4 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 # Pedagogical activity
 
 # Other activities
+
