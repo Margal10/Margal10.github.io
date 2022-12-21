@@ -2,10 +2,6 @@
 layout: default
 ---
 
-
-Small picture of me ;)
-
-
 [Link to download my resume.](https://github.com/Margal10/Margal10.github.io/files/10278796/CV-MargauxGaillard.pdf)
 
 
