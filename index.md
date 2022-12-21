@@ -4,9 +4,9 @@ layout: default
 
 
 
-Small image
+Small picture of me ;)
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![IMG_7546](https://user-images.githubusercontent.com/119662831/208927431-80825b93-817a-4b4b-8988-9a4aec366608.jpeg)
 
 [Link to another page](./another-page.html).
 
