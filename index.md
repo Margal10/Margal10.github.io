@@ -6,9 +6,8 @@ layout: default
 
 Small picture of me ;)
 
-![IMG_7546](https://user-images.githubusercontent.com/119662831/208927431-80825b93-817a-4b4b-8988-9a4aec366608.jpeg)
 
-[Link to another page](./another-page.html).
+[Link to download my CV](./another-page.html).
 
 # Information about me
 
