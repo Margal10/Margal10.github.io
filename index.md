@@ -7,7 +7,7 @@ layout: default
 Small picture of me ;)
 
 
-[Link to download my resume](.docs/CV-MargauxGaillard.pdf).
+[Link to view my resume](.docs/CV-MargauxGaillard.pdf).
 
 
 # Information about me
