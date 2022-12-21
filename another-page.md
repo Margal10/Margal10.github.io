@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Another page
+title: My resume
 description: This is a page to download my resume.
 ---
 
