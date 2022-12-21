@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Another page
-description: This is just another page
+description: This is a page to download my resume.
 ---
 
-## Welcome to another page
+## My resume
 
-_yay_
+
 
 [back](./)
