@@ -6,13 +6,10 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Information about me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I'm Margaux Gaillard, a french PhD student and my project is named "Development of security inks with integrated coding for the protection of cultural goods".
+I'm working under the co-direction of Jérôme Plain and Julien Proust within the L2n laboratory (Light nanomaterials and nanotechnology CNRS-EMR 7004).
 
 # Scientific activities
 ## Publications
