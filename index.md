@@ -8,6 +8,7 @@ Small picture of me ;)
 
 
 [Link to download my resume](./another-page.html).
+[Link to view my resume](./docs/CV - Margaux Gaillard.pdf)
 
 # Information about me
 
