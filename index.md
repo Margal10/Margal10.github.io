@@ -14,32 +14,32 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 # Scientific activities
 ## Publications
 
-• Reports:
+- Reports:
   - Reports of the project NOSE workpackage 2 which corresponds to the development and the characterization of the ink.
 
 ## Scientific comunications
 
-• Introduction of my work with a 5 minutes presentation to the L2n collaborators during the PhD Day.
-• Interview for the International Day of Women and Girls in Science available on: https://youtu.be/MfxxFB5UjuY>
-• Introduction of my work with a 5 minutes presentation for the PhD Day of the UTT.
-• Conférence MNO 2023 : Poster
-• Nanophot Workshop 2024 : Poster
-• ⁠GdR Or-Nano 2023 : Presentation "Immobilization of gold nanoparticles by DNA hybridization to code information"
-• ⁠Symposium Groupe UT Technological Systems, Sustainability and Safety 2024 : Presentation "Gold nanoparticles and DNA-based biosensors to code information"
-• EMRS 2024 Spring Meeting : Presentation "DNA and gold nanoparticles-based biosensors to protect archeological goods"
-• ESC Conference 2024 : Presentation "Self-Assembly-Driven Biosensors: DNA-Guided Gold Nanoparticles for Information coding"
-• NanoSEA 2024 : Presentation "Nanoparticle-Based Biosensor: Encoding and Decoding Information with DNA Hybridization"
+- Introduction of my work with a 5 minutes presentation to the L2n collaborators during the PhD Day.
+- Interview for the International Day of Women and Girls in Science available on: https://youtu.be/MfxxFB5UjuY>
+- Introduction of my work with a 5 minutes presentation for the PhD Day of the UTT.
+- Conférence MNO 2023 : Poster
+- Nanophot Workshop 2024 : Poster
+- ⁠GdR Or-Nano 2023 : Presentation "Immobilization of gold nanoparticles by DNA hybridization to code information"
+- ⁠Symposium Groupe UT Technological Systems, Sustainability and Safety 2024 : Presentation "Gold nanoparticles and DNA-based biosensors to code information"
+- EMRS 2024 Spring Meeting : Presentation "DNA and gold nanoparticles-based biosensors to protect archeological goods"
+- ESC Conference 2024 : Presentation "Self-Assembly-Driven Biosensors: DNA-Guided Gold Nanoparticles for Information coding"
+- NanoSEA 2024 : Presentation "Nanoparticle-Based Biosensor: Encoding and Decoding Information with DNA Hybridization"
 
 
 ## Research organization
 
 # Mobility
 
-• Participation in consortium meetings of the NOSE project in Lyon (FR) and Larnaca (CYP).
+- Participation in consortium meetings of the NOSE project in Lyon (FR) and Larnaca (CYP).
 
 # Formations
 
-• Scientific and professional trainings proposed by the doctoral school:
+- Scientific and professional trainings proposed by the doctoral school:
   - Elaboration and multi-scale characterization of materials (Thin film deposition, AFM, SEM, Clean room & chemistry training);
   - Nano-optics and photonics (LASER training, Nano-optics, Spectroscopy);
   - Scientific information and communication (Methods for scientific and technical communication, Methods for oral presentations in English);
@@ -47,21 +47,21 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
   - Ethics and scientific integrity (General introduction, Seminars and MOOC);
   - Interdisciplinary methods and tools (LaTeX advanced use and graphics library).
 
-• Scientific training beside the doctoral school:
+- Scientific training beside the doctoral school:
   - Labo 1.5 doctoral course: "Environmental crises: the role and positioning of research";
   - "Gènes sans gêne" (MOOC about Genes and DNA);
   - Open CV Bootcamp (MOOC about how to use the Open CV library in Python).
 
-•  Professoral training:
+-  Professoral training:
   - Competencies for Higher Education (General Aspects, Elements of Teaching Activity).
 
 # Pedagogical activity
 
-• Teaching of practical work at the UTT:
+- Teaching of practical work at the UTT:
   - "MA12" course: "Physics of polymers and composites" (DSC, Polymer blend, Surface tension measurement and Tensile tests on polymers).
   - "PHYS11" course: "Physics for engineers: Point mechanics" (Ballistics, Falling into a fluid, Torsion pendulum, Energy study of a free harmonic mechanical oscillator)
 
-• "Fête de la Science":
+- "Fête de la Science":
   - Advisement of the "Fête de la science" on the local radio NRJ Troyes.
   - Animation of a stand to introduce visitors to UTT's Miyawaki forest.
 
