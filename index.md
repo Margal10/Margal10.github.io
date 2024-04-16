@@ -20,7 +20,10 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 ## Scientific comunications
 
 - Introduction of my work with a 5 minutes presentation to the L2n collaborators during the PhD Day.
-- Interview for the International Day of Women and Girls in Science available on: https://youtu.be/MfxxFB5UjuY>
+- Interview for the International Day of Women and Girls in Science available here:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MfxxFB5UjuY?si=mSaYeHQdjmoJWI5K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - Introduction of my work with a 5 minutes presentation for the PhD Day of the UTT.
 - Conférence MNO 2023 : Poster
 - Nanophot Workshop 2024 : Poster
@@ -29,9 +32,6 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 - EMRS 2024 Spring Meeting : Presentation "DNA and gold nanoparticles-based biosensors to protect archeological goods"
 - ESC Conference 2024 : Presentation "Self-Assembly-Driven Biosensors: DNA-Guided Gold Nanoparticles for Information coding"
 - NanoSEA 2024 : Presentation "Nanoparticle-Based Biosensor: Encoding and Decoding Information with DNA Hybridization"
-
-
-## Research organization
 
 # Mobility
 
