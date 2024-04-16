@@ -22,7 +22,7 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 - Introduction of my work with a 5 minutes presentation to the L2n collaborators during the PhD Day.
 - Interview for the International Day of Women and Girls in Science available here:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MfxxFB5UjuY?si=mSaYeHQdjmoJWI5K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Margal10.github.io](http://img.youtube.com/vi/MfxxFB5UjuY/0.jpg)](http://www.youtube.com/watch?v=MfxxFB5UjuY "Interview de Margaux Gaillard, Doctorante à l'UTT")
 
 - Introduction of my work with a 5 minutes presentation for the PhD Day of the UTT.
 - Conférence MNO 2023 : Poster
