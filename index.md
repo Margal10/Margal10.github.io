@@ -25,13 +25,17 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 [![Margal10.github.io](http://img.youtube.com/vi/MfxxFB5UjuY/0.jpg)](http://www.youtube.com/watch?v=MfxxFB5UjuY "Interview de Margaux Gaillard, Doctorante à l'UTT")
 
 - Introduction of my work with a 5 minutes presentation for the PhD Day of the UTT.
-- Conférence MNO 2023 : Poster
-- Nanophot Workshop 2024 : Poster
-- ⁠GdR Or-Nano 2023 : Presentation "Immobilization of gold nanoparticles by DNA hybridization to code information"
-- ⁠Symposium Groupe UT Technological Systems, Sustainability and Safety 2024 : Presentation "Gold nanoparticles and DNA-based biosensors to code information"
-- EMRS 2024 Spring Meeting : Presentation "DNA and gold nanoparticles-based biosensors to protect archeological goods"
-- ESC Conference 2024 : Presentation "Self-Assembly-Driven Biosensors: DNA-Guided Gold Nanoparticles for Information coding"
-- NanoSEA 2024 : Presentation "Nanoparticle-Based Biosensor: Encoding and Decoding Information with DNA Hybridization"
+- Conférence MNO 2023: Poster
+- Nanophot Workshop 2024: Poster
+- ⁠GdR Or-Nano 2023: Presentation "Immobilization of gold nanoparticles by DNA hybridization to code information"
+- ⁠Symposium Groupe UT Technological Systems, Sustainability and Safety 2024: Presentation "Gold nanoparticles and DNA-based biosensors to code information"
+- "Midi à la BU" is a one-hour event during which a doctoral student or professor talks about his or her research project and debates with the public: "Développement d’encres de sécurité à codage intégré pour la protection des biens précieux" available here:
+
+[![Margal10.github.io](http://img.youtube.com/vi/IDENTIFICATION/0.jpg)](http://www.youtube.com/watch?v=IDENTIFICATION "TITLE")
+
+- EMRS 2024 Spring Meeting: Presentation "DNA and gold nanoparticles-based biosensors to protect archeological goods"
+- ESC Conference 2024: Presentation "Self-Assembly-Driven Biosensors: DNA-Guided Gold Nanoparticles for Information coding"
+- NanoSEA 2024: Presentation "Nanoparticle-Based Biosensor: Encoding and Decoding Information with DNA Hybridization"
 
 # Mobility
 
