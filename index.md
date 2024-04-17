@@ -57,7 +57,7 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
   - Open CV Bootcamp (MOOC about how to use the Open CV library in Python).
 
 -  Professoral training:
-  - Competencies for Higher Education (General Aspects, Elements of Teaching Activity).
+  - Competencies for Higher Education (General Aspects, Elements of Teaching Activity). 
 
 # Pedagogical activity
 
