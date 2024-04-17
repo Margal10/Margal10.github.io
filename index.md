@@ -9,7 +9,7 @@ layout: default
 
 I'm Margaux Gaillard, a french PhD student and my project is named "**Development of security inks with integrated coding for the protection of cultural goods**".
 
-I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** within the **L2n laboratory** (Light nanomaterials and nanotechnology) an internal laboratory of the University of Technology of Troyes (UTT) and & CNRS UMR 7076.
+I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** within the **L2n laboratory** (Light nanomaterials and nanotechnology) an internal laboratory of the University of Technology of Troyes (UTT) and CNRS (UMR 7076).
 
 # Scientific activities
 ## Publications
