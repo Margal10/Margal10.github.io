@@ -47,7 +47,7 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 # Formations
 
 - Scientific and professional trainings proposed by the doctoral school:
-  - Elaboration and multi-scale characterization of materials (Thin film deposition, AFM, SEM, Clean room & chemistry training);
+  - Elaboration and multi-scale characterization of materials (Thin film deposition, AFM, SEM, Clean room & Chemistry Room training);
   - Nano-optics and photonics (LASER training, Nano-optics, Spectroscopy);
   - Scientific information and communication (Methods for scientific and technical communication, Methods for oral presentations in English);
   - Entrepreneurial culture (Social dialogue and Project management);
