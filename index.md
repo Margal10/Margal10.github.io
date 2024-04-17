@@ -17,6 +17,7 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 - Reports:
   - Reports of the project NOSE workpackage 2 which corresponds to the development and the characterization of the ink.
 
+
 ## Scientific comunications
 
 - Introduction of my work with a 5 minutes presentation to the L2n collaborators during the PhD Day.
@@ -36,10 +37,12 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 - EMRS 2024 Spring Meeting: Presentation "DNA and gold nanoparticles-based biosensors to protect archeological goods"
 - ESC Conference 2024: Presentation "Self-Assembly-Driven Biosensors: DNA-Guided Gold Nanoparticles for Information coding"
 - NanoSEA 2024: Presentation "Nanoparticle-Based Biosensor: Encoding and Decoding Information with DNA Hybridization"
+  
 
 # Mobility
 
 - Participation in consortium meetings of the NOSE project in Lyon (FR) and Larnaca (CYP).
+  
 
 # Formations
 
@@ -57,7 +60,8 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
   - Open CV Bootcamp (MOOC about how to use the Open CV library in Python).
 
 -  Professoral training:
-  - Competencies for Higher Education (General Aspects, Elements of Teaching Activity). 
+  - Competencies for Higher Education (General Aspects, Elements of Teaching Activity).
+
 
 # Pedagogical activity
 
@@ -68,6 +72,7 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 - "Fête de la Science":
   - Advisement of the "Fête de la science" on the local radio NRJ Troyes.
   - Animation of a stand to introduce visitors to UTT's Miyawaki forest.
+  
 
 # Other activities
 
