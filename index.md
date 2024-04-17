@@ -30,7 +30,7 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 - Nanophot Workshop 2024: Poster
 - ⁠GdR Or-Nano 2023: Presentation "Immobilization of gold nanoparticles by DNA hybridization to code information"
 - ⁠Symposium Groupe UT Technological Systems, Sustainability and Safety 2024: Presentation "Gold nanoparticles and DNA-based biosensors to code information"
-- "Midi à la BU" is a one-hour event during which a doctoral student or professor talks about his or her research project and debates with the public: "Développement d’encres de sécurité à codage intégré pour la protection des biens précieux" available here:
+- "Midi à la BU", a one-hour event during which a doctoral student or professor talks about his or her research project and debates with the public: "Development of security inks with integrated coding to protect cultural goods" available here in french:
 
 [![Margal10.github.io](http://img.youtube.com/vi/IDENTIFICATION/0.jpg)](http://www.youtube.com/watch?v=IDENTIFICATION "TITLE")
 
@@ -41,7 +41,7 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 
 # Mobility
 
-- Participation in consortium meetings of the NOSE project in Lyon (FR) and Larnaca (CYP).
+- Participation in consortium meetings of the NOSE project at the Ecole Supérieure de la Police (ESP) in Lyon and at the Maison des Fouilles of HiSoMa archeologists in Larnaca (CYP).
   
 
 # Formations
