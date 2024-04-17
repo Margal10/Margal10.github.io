@@ -53,14 +53,16 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
   - Entrepreneurial culture (Social dialogue and Project management);
   - Ethics and scientific integrity (General introduction, Seminars and MOOC);
   - Interdisciplinary methods and tools (LaTeX advanced use and graphics library).
+    
 
 - Scientific training beside the doctoral school:
   - Labo 1.5 doctoral course: "Environmental crises: the role and positioning of research";
   - "Gènes sans gêne" (MOOC about Genes and DNA);
   - Open CV Bootcamp (MOOC about how to use the Open CV library in Python).
+    
 
 -  Professoral training:
-  - Competencies for Higher Education (General Aspects, Elements of Teaching Activity).
+      - Competencies for Higher Education (General Aspects, Elements of Teaching Activity).
 
 
 # Pedagogical activity
@@ -68,6 +70,7 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 - Teaching of practical work at the UTT:
   - "MA12" course: "Physics of polymers and composites" (DSC, Polymer blend, Surface tension measurement and Tensile tests on polymers).
   - "PHYS11" course: "Physics for engineers: Point mechanics" (Ballistics, Falling into a fluid, Torsion pendulum, Energy study of a free harmonic mechanical oscillator)
+    
 
 - "Fête de la Science":
   - Advisement of the "Fête de la science" on the local radio NRJ Troyes.
