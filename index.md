@@ -78,4 +78,5 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
   
 
 # Other activities
+- Doctoral student representative on the L2n unit council from 2024 to the end of my thesis.
 
