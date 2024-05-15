@@ -21,7 +21,7 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 ## Scientific comunications
 
 - Introduction of my work with a 5 minutes presentation to the L2n collaborators during the PhD Day.
-- Interview for the International Day of Women and Girls in Science available here:
+- Interview for the International Day of Women and Girls in Science available here in french:
 
 [![Margal10.github.io](http://img.youtube.com/vi/MfxxFB5UjuY/0.jpg)](http://www.youtube.com/watch?v=MfxxFB5UjuY "Interview de Margaux Gaillard, Doctorante à l'UTT")
 
