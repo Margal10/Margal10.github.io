@@ -75,6 +75,10 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 - "Fête de la Science":
   - Advisement of the "Fête de la science" on the local radio NRJ Troyes.
   - Animation of a stand to introduce visitors to UTT's Miyawaki forest.
+ 
+- "Fête de la lumière": Animation of a stand about stained glasses and presentation of 2 posters :
+    - Stained glass: from idea to work of art
+    - Spectroscopic analysis of nanoparticle-enriched stained glass: an exploration of their optical properties 
   
 
 # Other activities
