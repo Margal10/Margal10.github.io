@@ -50,7 +50,7 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
   - Elaboration and multi-scale characterization of materials (Thin film deposition, AFM, SEM, Clean room & Chemistry Room training);
   - Nano-optics and photonics (LASER training, Nano-optics, Spectroscopy);
   - Scientific information and communication (Methods for scientific and technical communication, Methods for oral presentations in English);
-  - Entrepreneurial culture (Social dialogue and Project management);
+  - Entrepreneurial culture (Social dialogue, Professional self-assessment, Job market knowledge and Career planning and Project management);
   - Ethics and scientific integrity (General introduction, Seminars and MOOC);
   - Interdisciplinary methods and tools (LaTeX advanced use and graphics library).
     
@@ -70,7 +70,6 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 - Teaching of practical work at the UTT:
   - "MA12" course: "Physics of polymers and composites" (DSC, Polymer blend, Surface tension measurement and Tensile tests on polymers).
   - "PHYS11" course: "Physics for engineers: Point mechanics" (Ballistics, Falling into a fluid, Torsion pendulum, Energy study of a free harmonic mechanical oscillator)
-    
 
 - "Fête de la Science":
   - Advisement of the "Fête de la science" on the local radio stations Latitude and NRJ Troyes.
@@ -82,5 +81,5 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
   
 
 # Other activities
-- Doctoral student representative on the L2n unit council from 2024 to the end of my thesis.
+- Doctoral student representative on the L2n Unit Council from 2024 to the end of my thesis.
 
