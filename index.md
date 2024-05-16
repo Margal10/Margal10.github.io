@@ -27,8 +27,8 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 
 - Introduction of my work with a 5 minutes presentation for the PhD Day of the UTT.
 - Conférence MNO 2023: Poster
-- Nanophot Workshop 2024: Poster
 - ⁠GdR Or-Nano 2023: Presentation "Immobilization of gold nanoparticles by DNA hybridization to code information"
+- Nanophot Workshop 2024: Poster
 - ⁠Symposium Groupe UT Technological Systems, Sustainability and Safety 2024: Presentation "Gold nanoparticles and DNA-based biosensors to code information"
 - "Midi à la BU", a one-hour event during which a doctoral student or professor talks about his or her research project and debates with the public: "Development of security inks with integrated coding to protect cultural goods" available here in french:
 
