@@ -68,8 +68,8 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 # Pedagogical activity
 
 - Teaching of practical work at the UTT:
-  - "MA12" course: "Physics of polymers and composites" (DSC, Polymer blend, Surface tension measurement and Tensile tests on polymers).
-  - "PHYS11" course: "Physics for engineers: Point mechanics" (Ballistics, Falling into a fluid, Torsion pendulum, Energy study of a free harmonic mechanical oscillator)
+  - "MA12" course (2 semesters): "Physics of polymers and composites" (DSC, Polymer blend, Surface tension measurement and Tensile tests on polymers).
+  - "PHYS11" course (2 semesters): "Physics for engineers: Point mechanics" (Ballistics, Falling into a fluid, Torsion pendulum, Energy study of a free harmonic mechanical oscillator)
 
 - "Fête de la Science":
   - Advisement of the "Fête de la science" on the local radio stations Latitude and NRJ Troyes.
