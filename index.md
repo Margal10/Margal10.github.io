@@ -15,7 +15,7 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 ## Publications
 
 - Reports:
-  - Reports of the project NOSE workpackage 2 which corresponds to the development and the characterization of the ink.
+  - Reports of the ANR project NOSE workpackage 2 which corresponds to the development and the characterization of the ink.
 
 
 ## Scientific comunications
@@ -37,6 +37,7 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 - EMRS 2024 Spring Meeting: Presentation "DNA and gold nanoparticles-based biosensors to protect archeological goods"
 - ESC Conference 2024: Presentation "Self-Assembly-Driven Biosensors: DNA-Guided Gold Nanoparticles for Information coding"
 - NanoSEA 2024: Presentation "Nanoparticle-Based Biosensor: Encoding and Decoding Information with DNA Hybridization"
+- OPTO conference 2024
   
 
 # Mobility
