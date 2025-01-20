@@ -7,7 +7,7 @@ layout: default
 
 # Information about me
 
-I'm Margaux Gaillard, a french PhD student and my project is named "**Development of security inks with integrated coding for the protection of cultural goods**".
+I'm Margaux Gaillard, a french PhD student and the title of my thesis is "**Development of security inks with integrated coding for the protection of cultural goods**".
 
 I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** within the **L2n laboratory** (Light nanomaterials and nanotechnology) an internal laboratory of the University of Technology of Troyes (UTT) and CNRS (UMR 7076).
 
@@ -19,26 +19,33 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 
 
 ## Scientific comunications
+### Presentations
+- ⁠October 2023, GdR Or-Nano: "Immobilization of gold nanoparticles by DNA hybridization to code information".
+- February 2024, ⁠Symposium Groupe UT Technological Systems, Sustainability and Safety (Paris): "Gold nanoparticles and DNA-based biosensors to code information".
+- May 2024, EMRS Spring Meeting (Strasbourg): "DNA and gold nanoparticles-based biosensors to protect archeological goods".
+- June 2024, ESC Conference (Bordeaux): "Self-Assembly-Driven Biosensors: DNA-Guided Gold Nanoparticles for Information coding".
+- July 2024, NanoSEA Conference (Marseille): "Nanoparticle-Based Biosensor: Encoding and Decoding Information with DNA Hybridization".
 
-- Introduction of my work with a 5 minutes presentation to the L2n collaborators during the PhD Day.
-- Interview for the International Day of Women and Girls in Science available here in french:
+### Posters
+- September 2023, MNO Conference: "Immobilization of Gold Nanoparticles by DNA Hybridization to Code Information".
+- July 2024, OPTO Electronics Workshop: "Optical and Computational Methods for Decoding Nanoparticles Ink Patterns" (Best Poster Price).
+
+### Others
+- December 2022, L2n PhD Day: Introduction of my work with a 5 minutes presentation to the L2n collaborators (Best 5 min Presentation Price).
+- February 2023, Interview for the International Day of Women and Girls in Science available here in french:
 
 [![Margal10.github.io](http://img.youtube.com/vi/MfxxFB5UjuY/0.jpg)](http://www.youtube.com/watch?v=MfxxFB5UjuY "Interview de Margaux Gaillard, Doctorante à l'UTT")
 
-- Introduction of my work with a 5 minutes presentation for the PhD Day of the UTT.
-- Conférence MNO 2023: Poster
-- ⁠GdR Or-Nano 2023: Presentation "Immobilization of gold nanoparticles by DNA hybridization to code information"
-- ⁠Symposium Groupe UT Technological Systems, Sustainability and Safety 2024: Presentation "Gold nanoparticles and DNA-based biosensors to code information"
-- Nanophot Workshop 2024: Poster
-- "Midi à la BU", a one-hour event during which a doctoral student or professor talks about his or her research project and debates with the public: "Development of security inks with integrated coding to protect cultural goods" available here in french:
+- April 2023, UTT PhD Day: Introduction of my work with a 5 minutes presentation.
+- December 2023, L2n PhD Day: Presentation of my work with a poster (Best Poster Price).
+- March 2024, "Midi à la BU", a one-hour event during which a doctoral student or professor talks about his or her research project and debates with the public. Title of my talk: "Development of security inks with integrated coding to protect cultural goods" available here in french:
 
 [![Margal10.github.io](http://img.youtube.com/vi/Zjcx1oAYnYA/0.jpg)](http://www.youtube.com/watch?v=Zjcx1oAYnYA "Les midis à la BU avec Margaux Gaillard, Doctorante UTT")
 
-- EMRS 2024 Spring Meeting: Presentation "DNA and gold nanoparticles-based biosensors to protect archeological goods"
-- ESC Conference 2024: Presentation "Self-Assembly-Driven Biosensors: DNA-Guided Gold Nanoparticles for Information coding"
-- NanoSEA 2024: Presentation "Nanoparticle-Based Biosensor: Encoding and Decoding Information with DNA Hybridization"
-- OPTO conference 2024
-  
+- May 2024, Presentation of my work to the former French Minister of Higher Education and Research, Sylvie Retailleau, during her visit to the Université de Technologie de Troyes (UTT).
+- January 2025, Presentation of my work during the presentation of the UTT 2035 strategic plan at the French Senate (Palais du Luxembourg) available here in french:
+
+[![Margal10.github.io](http://img.youtube.com/vi/ziSD8Tcm-4c?si=vLAcpRf4qyVLrDuZ/0.jpg)](https://youtu.be/ziSD8Tcm-4c?si=vLAcpRf4qyVLrDuZ "UTT2035 au Sénat")
 
 # Mobility
 
@@ -58,8 +65,9 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 
 - Scientific training beside the doctoral school:
   - Labo 1.5 doctoral course: "Environmental crises: the role and positioning of research";
-  - "Gènes sans gêne" (MOOC about Genes and DNA);
-  - Open CV Bootcamp (MOOC about how to use the Open CV library in Python).
+  - "Gènes sans gêne": MOOC about Genes and DNA;
+  - Open CV Bootcamp: MOOC about how to use the Open CV library in Python;
+  - Experimentarium: 1 week of intense course to learn how to share our research activities in 20-minute workshop-meetings with 10 years old school kids.
     
 
 -  Professoral training:
@@ -70,18 +78,18 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 
 - Teaching of practical work at the UTT:
   - "MA12" course (2 semesters): "Physics of polymers and composites" (DSC, Polymer blend, Surface tension measurement and Tensile tests on polymers).
-  - "PHYS11" course (2 semesters): "Physics for engineers: Point mechanics" (Ballistics, Falling into a fluid, Torsion pendulum, Energy study of a free harmonic mechanical oscillator)
+  - "PHYS11" course (3 semesters): "Physics for engineers: Point mechanics" (Ballistics, Falling into a fluid, Torsion pendulum, Energy study of a free harmonic mechanical oscillator).
 
 - "Fête de la Science":
   - Advisement of the "Fête de la science" on the local radio stations Latitude and NRJ Troyes.
   - Animation of a stand to introduce visitors to UTT's Miyawaki forest.
  
 - "Fête de la lumière": Animation of a stand about stained glasses and presentation of 2 posters :
-    - Stained glass: from idea to work of art
-    - Spectroscopic analysis of nanoparticle-enriched stained glass: an exploration of their optical properties 
+    - Stained glass: from idea to work of art;
+    - Spectroscopic analysis of nanoparticle-enriched stained glass: an exploration of their optical properties.
   
 
 # Other activities
 - Doctoral student representative on the L2n Unit Council from 2024 to the end of my thesis.
-- Part of the local organizing committee for the SFP 2025 general conference at UTT
+- Part of the local organizing committee for the SFP General Congress 2025 in July 2025 at UTT.
 
