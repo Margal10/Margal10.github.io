@@ -45,7 +45,8 @@ I'm working under the co-direction of **Jérôme Plain** and **Julien Proust** w
 - May 2024, Presentation of my work to the former French Minister of Higher Education and Research, Sylvie Retailleau, during her visit to the Université de Technologie de Troyes (UTT).
 - January 2025, Presentation of my work during the presentation of the UTT 2035 strategic plan at the French Senate (Palais du Luxembourg) available here in french:
 
-[![Margal10.github.io](http://img.youtube.com/vi/ziSD8Tcm-4c?si=vLAcpRf4qyVLrDuZ/0.jpg)](https://youtu.be/ziSD8Tcm-4c?si=vLAcpRf4qyVLrDuZ "UTT2035 au Sénat")
+[![Margal10.github.io](http://img.youtube.com/vi/ziSD8Tcm-4c/0.jpg)](https://youtu.be/ziSD8Tcm-4c "UTT2035 au Sénat")
+
 
 # Mobility
 
