@@ -21,7 +21,9 @@ J’aide à exploiter des images et des données expérimentales réelles lorsqu
 ## Exemples de réalisations
 
 ### Identification d’objets par signature physique
-Reconnaissance robuste d’objets réels à partir de motifs aléatoires (OpenCV : SIFT, ORB, AKAZE).  
+Identifier un objet unique malgré variations d’acquisition (orientation, bruit, éclairage).
+Solution : appariement de points clés + métrique robuste.
+Résultat : identification fiable sans marquage physique.
 Applications : traçabilité et authentification.
 
 ### Comparaison de nuages de points
@@ -35,7 +37,7 @@ Extraction de caractéristiques et métriques robustes sur données issues de sy
 ## Stack technique
 - Python (OpenCV, NumPy)
 - Traitement d’images & vision par ordinateur
-- Analyse de données expérimentales
+- Extraction de caractéristiques et métriques de robustesse sur données réelles
 - Validation et robustesse de mesures
 
 ---
@@ -44,4 +46,4 @@ Extraction de caractéristiques et métriques robustes sur données issues de sy
 Email : margaux.gaillard@sfr.fr  
 LinkedIn : https://linkedin.com/in/margaux-gaillard
 
-[Link to download my resume.](https://github.com/Margal10/Margal10.github.io/files/10278796/CV-MargauxGaillard.pdf)
+[Lien pour télécharger mon CV.](https://github.com/Margal10/Margal10.github.io/files/10278796/CV-MargauxGaillard.pdf)
