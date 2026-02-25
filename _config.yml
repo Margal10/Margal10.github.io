@@ -1,6 +1,8 @@
 title: Margaux Gaillard
-description: **Ingénieure vision par ordinateur & analyse de données expérimentales**
-J’aide à exploiter des images et des données expérimentales réelles lorsqu’elles sont trop variables, bruitées ou non contrôlées pour des méthodes classiques.
+description: >
+  Ingénieure vision par ordinateur & analyse de données expérimentales.
+  J’aide à exploiter des images et des données expérimentales réelles
+  lorsqu’elles sont trop variables, bruitées ou non contrôlées.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-cayman
+theme: minima
