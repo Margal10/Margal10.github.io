@@ -2,9 +2,14 @@
 layout: default
 title: Margaux Gaillard
 ---
+
+[Télécharger mon CV](https://github.com/Margal10/Margal10.github.io/files/10278796/CV-MargauxGaillard.pdf)
+
 **Ingénieure vision par ordinateur & analyse de données expérimentales**
 
 J’aide à exploiter des images et des données expérimentales réelles lorsqu’elles sont trop variables, bruitées ou non contrôlées pour des méthodes classiques.
+
+Applications : vision industrielle, inspection automatisée, métrologie par l’image, analyse scientifique appliquée.
 
 ---
 
@@ -21,7 +26,7 @@ J’aide à exploiter des images et des données expérimentales réelles lorsqu
 ## Exemples de réalisations
 
 ### Identification d’objets par signature physique
-Identifier un objet unique malgré variations d’acquisition (orientation, bruit, éclairage).
+Problème : authentifier un objet sans marquage physique malgré orientation et éclairage variables.
 Solution : appariement de points clés + métrique robuste.
 Résultat : identification fiable sans marquage physique.
 Applications : traçabilité et authentification.
@@ -45,5 +50,3 @@ Extraction de caractéristiques et métriques robustes sur données issues de sy
 ## Contact
 Email : margaux.gaillard@sfr.fr  
 LinkedIn : https://linkedin.com/in/margaux-gaillard
-
-[Lien pour télécharger mon CV.](https://github.com/Margal10/Margal10.github.io/files/10278796/CV-MargauxGaillard.pdf)
