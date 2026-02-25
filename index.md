@@ -31,8 +31,12 @@ Solution : appariement de points clés + métrique robuste.
 Résultat : identification fiable sans marquage physique.
 Applications : traçabilité et authentification.
 
+<img src="/assets/img/AlgoVisuOrdi_results.png" width="600">
+
 ### Comparaison de nuages de points
 Algorithme de comparaison de structures 3D variables pour validation expérimentale et suivi d’évolution.
+
+<img src="/assets/img/maillage_recouvrement.png" width="600">
 
 ### Mesure automatisée sur images bruitées
 Extraction de caractéristiques et métriques robustes sur données issues de systèmes optiques réels.
