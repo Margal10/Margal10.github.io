@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 ## Problèmes que je sais résoudre
 
 - Automatiser une mesure aujourd’hui réalisée manuellement
