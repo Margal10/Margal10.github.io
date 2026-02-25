@@ -2,6 +2,7 @@
 layout: default
 title: Margaux Gaillard
 ---
+
 ## Problèmes que je sais résoudre
 
 - Automatiser une mesure aujourd’hui réalisée manuellement
