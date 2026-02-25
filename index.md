@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Margaux Gaillard
 ---
 ## Problèmes que je sais résoudre
 
