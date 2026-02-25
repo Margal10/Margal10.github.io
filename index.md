@@ -2,13 +2,6 @@
 layout: default
 ---
 
-# Margaux Gaillard
-**Ingénieure vision par ordinateur & analyse de données expérimentales**
-
-J’aide à exploiter des images et des données expérimentales réelles lorsqu’elles sont trop variables, bruitées ou non contrôlées pour des méthodes classiques.
-
----
-
 ## Problèmes que je sais résoudre
 
 - Automatiser une mesure aujourd’hui réalisée manuellement
