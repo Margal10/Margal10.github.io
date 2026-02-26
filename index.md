@@ -32,11 +32,16 @@ Résultat : identification fiable sans marquage physique.
 Applications : traçabilité et authentification.
 
 <img src="/assets/img/AlgoVisuOrdi_results.png" width="600">
+Figure 1 : Comparaison des correspondances de points caractéristiques sur un même tesson archéologique photographié sous deux conditions d’éclairage distinctes. Les appariements sont obtenus à l’aide des algorithmes (a) SIFT, (b) ORB et (c) AKAZE.
 
 ### Comparaison de nuages de points
-Algorithme de comparaison de structures 3D variables pour validation expérimentale et suivi d’évolution.
+Problème : comparer deux acquisitions d’un même objet physique alors que sa position, son orientation ou sa géométrie varient légèrement entre mesures (bruit expérimental, déformation, imprécision d’acquisition).
+Solution : développement d’un algorithme d’alignement et de comparaison de nuages de points 3D permettant d’estimer la similarité géométrique indépendamment du positionnement, et d’extraire des métriques quantitatives d’écart.
+Résultat : détection fiable de variations réelles de structure sans dépendre du placement de l’objet ni des conditions d’acquisition. Permet un suivi reproductible de l’évolution d’un système physique.
+Applications : contrôle qualité dimensionnel, suivi d’usure ou de déformation, validation de procédés de fabrication, comparaison avant/après traitement, métrologie 3D automatisée.
 
 <img src="/assets/img/maillage_recouvrement.png" width="600">
+Figure 2 : Comparaison des recouvrements de nuages de points de différents tessons archéologiques : (a) deux prises de vue avec des éclairages légèrement différents d’un même tesson sont comparés et le recouvrement est de 100%, (b) deux pièces complètement différentes sont comparées et le recouvrement est de 0%, (c) et (d) un tesson a été fragmenté afin de calculer les recouvrements de ses fragments. Uniquement la partie de la pièce originelle similaire au fragment ainsi que le fragment correspondent, donnant des taux de recouvrement d’environ 50 %.
 
 ### Mesure automatisée sur images bruitées
 Extraction de caractéristiques et métriques robustes sur données issues de systèmes optiques réels.
