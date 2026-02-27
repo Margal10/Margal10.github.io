@@ -29,8 +29,11 @@ Applications : vision industrielle, inspection automatisée, métrologie par l�
 
 ### Identification d’objets par signature physique
 Problème : authentifier un objet sans marquage physique malgré orientation et éclairage variables.
+
 Solution : appariement de points clés + métrique robuste.
+
 Résultat : identification fiable sans marquage physique.
+
 Applications : traçabilité et authentification.
 
 <img src="/assets/img/AlgoVisuOrdi_results.png" width="600">
@@ -38,8 +41,11 @@ Figure 1 : Comparaison des correspondances de points caractéristiques sur un m�
 
 ### Comparaison de nuages de points
 Problème : comparer deux acquisitions d’un même objet physique alors que sa position, son orientation ou sa géométrie varient légèrement entre mesures (bruit expérimental, déformation, imprécision d’acquisition).
+
 Solution : développement d’un algorithme d’alignement et de comparaison de nuages de points 3D permettant d’estimer la similarité géométrique indépendamment du positionnement, et d’extraire des métriques quantitatives d’écart.
+
 Résultat : détection fiable de variations réelles de structure sans dépendre du placement de l’objet ni des conditions d’acquisition. Permet un suivi reproductible de l’évolution d’un système physique.
+
 Applications : contrôle qualité dimensionnel, suivi d’usure ou de déformation, validation de procédés de fabrication, comparaison avant/après traitement, métrologie 3D automatisée.
 
 <img src="/assets/img/maillage_recouvrement.png" width="600">
