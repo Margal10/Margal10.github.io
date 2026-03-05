@@ -65,4 +65,11 @@ Extraction de caractéristiques et métriques robustes sur données issues de sy
 - Extraction de caractéristiques et métriques de robustesse sur données réelles
 - Validation et robustesse de mesures
 
+---
+
+## Contact
+
+LinkedIn : https://linkedin.com/in/margaux-gaillard  
+Email : margaux.gaillard@sfr.fr
+
 [back](./)
