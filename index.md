@@ -16,12 +16,12 @@ Mon travail combine expérimentation, instrumentation et traitement de données 
 ### R&D expérimentale en science des matériaux
 Conception de protocoles expérimentaux, caractérisation de matériaux et développement de systèmes de marquage et d’identification physique.
 
-➡ Voir la page dédiée : **R&D Matériaux**
+➡ [Voir la page R&D Matériaux](r&d-materiaux)
 
 ### Vision par ordinateur et analyse d’images
 Développement d’algorithmes pour l’identification d’objets, l’analyse d’images expérimentales et l’exploitation de données issues de systèmes optiques.
 
-➡ Voir la page dédiée : **Computer Vision**
+➡ [Voir la page Computer Vision](computer-vision)
 
 ---
 
