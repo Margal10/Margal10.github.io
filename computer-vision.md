@@ -54,9 +54,6 @@ Applications : contrôle qualité dimensionnel, suivi d’usure ou de déformati
 
 Figure 2 : Comparaison des recouvrements de nuages de points de différents tessons archéologiques : (a) deux prises de vue avec des éclairages légèrement différents d’un même tesson sont comparés et le recouvrement est de 100%, (b) deux pièces complètement différentes sont comparées et le recouvrement est de 0%, (c) et (d) un tesson a été fragmenté afin de calculer les recouvrements de ses fragments. Uniquement la partie de la pièce originelle similaire au fragment ainsi que le fragment correspondent, donnant des taux de recouvrement d’environ 50 %.
 
-### Mesure automatisée sur images bruitées
-Extraction de caractéristiques et métriques robustes sur données issues de systèmes optiques réels.
-
 ---
 
 ## Stack technique
