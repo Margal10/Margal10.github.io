@@ -12,7 +12,7 @@ J’aide à exploiter des images et des données expérimentales réelles lorsqu
 
 J’interviens comme ingénieure R&D / computer vision pour transformer des prototypes d’analyse d’images en outils exploitables par une équipe technique.
 
-Applications : vision industrielle, inspection automatisée, métrologie par l’image, analyse scientifique appliquée.
+Applications : vision industrielle, inspection automatisée, métrologie par l’image, analyse scientifique appliquée. 
 
 ---
 
