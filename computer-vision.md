@@ -38,6 +38,7 @@ Résultat : identification fiable sans marquage physique.
 Applications : traçabilité et authentification.
 
 <img src="/assets/img/AlgoVisuOrdi_results.png" width="600">
+
 Figure 1 : Comparaison des correspondances de points caractéristiques sur un même tesson archéologique photographié sous deux conditions d’éclairage distinctes. Les appariements sont obtenus à l’aide des algorithmes (a) SIFT, (b) ORB et (c) AKAZE.
 
 ### Comparaison de nuages de points
@@ -50,6 +51,7 @@ Résultat : détection fiable de variations réelles de structure sans dépendre
 Applications : contrôle qualité dimensionnel, suivi d’usure ou de déformation, validation de procédés de fabrication, comparaison avant/après traitement, métrologie 3D automatisée.
 
 <img src="/assets/img/maillage_recouvrement.png" width="600">
+
 Figure 2 : Comparaison des recouvrements de nuages de points de différents tessons archéologiques : (a) deux prises de vue avec des éclairages légèrement différents d’un même tesson sont comparés et le recouvrement est de 100%, (b) deux pièces complètement différentes sont comparées et le recouvrement est de 0%, (c) et (d) un tesson a été fragmenté afin de calculer les recouvrements de ses fragments. Uniquement la partie de la pièce originelle similaire au fragment ainsi que le fragment correspondent, donnant des taux de recouvrement d’environ 50 %.
 
 ### Mesure automatisée sur images bruitées
