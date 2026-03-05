@@ -11,7 +11,7 @@ Je développe et pilote des projets expérimentaux en science des matériaux, de
 
 Mon travail consiste à concevoir des méthodes de caractérisation fiables, analyser des données physiques complexes et transformer des preuves de concept en prototypes expérimentaux exploitables.
 
-Applications : développement de matériaux innovants, caractérisation avancée, instrumentation scientifique et validation de procédés.
+Applications : développement de matériaux innovants, caractérisation avancée, instrumentation scientifique et validation de procédés. 
 
 ---
 
