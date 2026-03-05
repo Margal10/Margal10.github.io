@@ -64,3 +64,5 @@ Extraction de caractéristiques et métriques robustes sur données issues de sy
 - Traitement d’images & vision par ordinateur
 - Extraction de caractéristiques et métriques de robustesse sur données réelles
 - Validation et robustesse de mesures
+
+[back](./)
