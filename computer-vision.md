@@ -16,7 +16,7 @@ Applications : vision industrielle, inspection automatisée, métrologie par l�
 
 ---
 
-## Problèmes que je sais résoudre
+## Problématiques auxquelles je peux répondre
 
 - Automatiser une mesure aujourd’hui réalisée manuellement
 - Identifier des objets sans marquage ni positionnement contrôlé
