@@ -7,7 +7,7 @@ title: Accueil
 
 Je développe des méthodes expérimentales et des outils d’analyse permettant d’exploiter des données physiques complexes issues de systèmes réels.
 
-Mon travail combine expérimentation, instrumentation et traitement de données afin de transformer des preuves de concept scientifiques en solutions techniques exploitables.
+Mon travail combine expérimentation, instrumentation et traitement de données afin de transformer des preuves de concept scientifiques en solutions techniques exploitables. 
 
 ---
 
