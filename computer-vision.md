@@ -64,10 +64,4 @@ Figure 2 : Comparaison des recouvrements de nuages de points de différents tess
 
 ---
 
-## Contact
-
-Email : [margaux.gaillard@sfr.fr](mailto:margaux.gaillard@sfr.fr)
-
-LinkedIn : [https://www.linkedin.com/in/margaux-gaillard](https://www.linkedin.com/in/margaux-gaillard)
-
 [Accueil](./)
