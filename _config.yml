@@ -2,6 +2,9 @@ title: Portfolio de Margaux Gaillard
 email: margaux.gaillard@sfr.fr
 linkedin_username: margaux-gaillard
 
+sass:
+  style: compressed
+
 show_downloads: false
 google_analytics:
 theme: minima
