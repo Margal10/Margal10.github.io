@@ -3,6 +3,9 @@ description: Ingénieure R&D – Vision par ordinateur & Science des matériaux
 email: margaux.gaillard@sfr.fr
 linkedin_username: margaux-gaillard
 
+author:
+  name:
+
 sass:
   style: compressed
 
