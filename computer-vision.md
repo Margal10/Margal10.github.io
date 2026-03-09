@@ -69,4 +69,4 @@ Figure 2 : Comparaison des recouvrements de nuages de points de différents tess
 LinkedIn : https://linkedin.com/in/margaux-gaillard  
 Email : margaux.gaillard@sfr.fr
 
-[back](./)
+[Accueil](./)
