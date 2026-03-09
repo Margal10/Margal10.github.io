@@ -5,5 +5,5 @@ google_analytics:
 theme: minima
 header_pages:
   - index.md
-  - rd-materiaux.md
+  - r&d-materiaux.md
   - computer-vision.md
