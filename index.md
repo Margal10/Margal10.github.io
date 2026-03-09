@@ -31,4 +31,4 @@ Développement d’algorithmes pour l’identification d’objets, l’analyse d
 - conception et mise en place de protocoles expérimentaux robustes
 - analyse de données physiques complexes
 - développement d’outils d’analyse automatisée
-- validation expérimentale de concepts technologiques
+- validation expérimentale de concepts technologiques 
