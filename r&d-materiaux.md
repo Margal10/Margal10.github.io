@@ -137,8 +137,9 @@ Figure 3 :
 
 ## Contact
 
-LinkedIn : https://linkedin.com/in/margaux-gaillard  
-Email : margaux.gaillard@sfr.fr
+Email : [margaux.gaillard@sfr.fr](mailto:margaux.gaillard@sfr.fr)
+
+LinkedIn : [https://www.linkedin.com/in/margaux-gaillard](https://www.linkedin.com/in/margaux-gaillard)
 
 [Retour](./)
 
