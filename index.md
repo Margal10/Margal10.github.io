@@ -4,7 +4,7 @@ title: Accueil
 description: 
 ---
 
-**Ingénieure R&D – Analyse de données expérimentales et instrumentation scientifique** 
+**Ingénieure R&D – Analyse de données expérimentales et instrumentation scientifique**
 
 Je développe des méthodes expérimentales et des outils d’analyse permettant d’exploiter des données physiques complexes issues de systèmes réels.
 
