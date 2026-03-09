@@ -36,5 +36,7 @@ Développement d’algorithmes pour l’identification d’objets, l’analyse d
 ---
 
 ## Contact
+
 Email : [margaux.gaillard@sfr.fr](mailto:margaux.gaillard@sfr.fr)
+
 LinkedIn : [https://www.linkedin.com/in/margaux-gaillard](https://www.linkedin.com/in/margaux-gaillard)
