@@ -1,0 +1,24 @@
+---
+---
+
+@import "minima";
+
+/* Footer plus propre */
+.footer-col-wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  text-align: center;
+}
+
+.footer-col {
+  flex: none;
+}
+
+.site-footer {
+  padding: 20px 0;
+}
+
+.site-footer a {
+  text-decoration: none;
+}
