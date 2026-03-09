@@ -61,7 +61,3 @@ Figure 2 : Comparaison des recouvrements de nuages de points de différents tess
 - Traitement d’images & vision par ordinateur
 - Extraction de caractéristiques et métriques de robustesse sur données réelles
 - Validation et robustesse de mesures
-
----
-
-[Accueil](./)
