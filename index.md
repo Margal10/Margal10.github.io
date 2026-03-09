@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Accueil
+description: 
 ---
 
 **Ingénieure R&D – Analyse de données expérimentales et instrumentation scientifique**
