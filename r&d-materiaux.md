@@ -131,4 +131,4 @@ Figure 3 :
 **Analyse de données**
 - Python (NumPy, Pandas, SciPy)
 - MATLAB / Igor Pro
-- Analyse d’images scientifiques (ImageJ / Fiji)
+- Analyse d’images scientifiques (ImageJ / Fiji) 
