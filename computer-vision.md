@@ -4,7 +4,7 @@ title: Computer Vision
 description : 
 ---
 
-[Télécharger mon CV](https://github.com/Margal10/Margal10.github.io/files/10278796/CV_Margaux-Gaillard_Computer-vision.pdf)
+[Télécharger mon CV](/assets/cv/CV_Margaux_Gaillard_Computer-vision.pdf)
 
 **Ingénieure vision par ordinateur & analyse de données expérimentales**
 
