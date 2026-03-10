@@ -97,7 +97,7 @@ Identification de matériaux compatibles avec les exigences industrielles et rec
 
 Développement de matériaux durables – Emballages innovants – Substitution de matériaux conventionnels
 
-<img src="/assets/img/Matieres_Albea.png" width="600">
+<img src="/assets/img/Matieres_albea.png" width="600">
 
 Figure 3 : 
 
