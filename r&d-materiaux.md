@@ -4,7 +4,7 @@ title: Matériaux
 description:
 ---
 
-[Télécharger mon CV](https://github.com/Margal10/Margal10.github.io/files/10278796/CV_Margaux-Gaillard_Matériaux.pdf)
+[Télécharger mon CV](/assets/cv/CV_Margaux_Gaillard_Matériaux.pdf))
 
 **Ingénieure R&D – Science des matériaux et instrumentation**
 
