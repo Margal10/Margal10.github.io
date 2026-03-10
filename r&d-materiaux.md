@@ -48,7 +48,8 @@ Traçabilité de produits – Lutte contre la contrefaçon – Authentification 
 
 <img src="/assets/img/Depot_aleatoire.png" width="600">
 
-Figure 1 : 
+Figure 1 : Signature physique aléatoire utilisée pour l’identification d’objets.
+La distribution aléatoire de nanoparticules forme une structure unique servant d’empreinte physique. L’analyse de l’image permet d’extraire des caractéristiques robustes afin de reconnaître l’objet malgré les variations d’observation.
 
 ## Développement d’un marquage ADN pour l’authentification d’objets
 
@@ -60,7 +61,7 @@ Concevoir un système de marquage physique difficilement falsifiable permettant 
 
 Développement d’un marquage basé sur des séquences d’ADN synthétiques exploitant la reconnaissance spécifique des brins complémentaires.
 
-Conception d’un protocole expérimental intégrant :
+Conception d’un protocole expérimental :
 
 - hybridation ADN/ADN pour la reconnaissance du code
 - purification et séparation des fragments par méthodes SPRI et électrophorèse
@@ -75,9 +76,10 @@ Validation expérimentale du principe d’identification basé sur l’ADN et co
 
 Traçabilité et authentification de produits – Lutte contre la contrefaçon – Marquage sécurisé de matériaux ou composants industriels
 
-<img src="/assets/img/Principe_biocapteur.pdf" width="600">
+<img src="/assets/img/Schema_marquage_ADN.pdf" width="600">
 
-Figure 2 : 
+Figure 2 : Principe du marquage basé sur l’ADN.
+Des séquences d’ADN synthétiques servent de code unique. La reconnaissance repose sur l’hybridation spécifique entre brins complémentaires. Le protocole expérimental combine collecte des fragments d'ADN à la surface des objets, purification des fragments (SPRI, électrophorèse) et utilisation d'un test de flux latéral.
 
 ## Qualification de matériaux recyclés et biosourcés pour applications industrielles
 
@@ -99,7 +101,8 @@ Développement de matériaux durables – Emballages innovants – Substitution 
 
 <img src="/assets/img/Matieres_albea.png" width="600">
 
-Figure 3 : 
+Figure 3 : Caractérisation de matériaux recyclés et biosourcés pour applications industrielles.
+Analyse des propriétés mécaniques et physico-chimiques afin d’évaluer la compatibilité de nouveaux matériaux avec les contraintes de production. Ces essais permettent d’identifier les formulations pouvant remplacer des matériaux conventionnels tout en conservant les performances nécessaires.
 
 ---
 
