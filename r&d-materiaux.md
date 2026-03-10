@@ -6,7 +6,7 @@ description:
 
 [Télécharger mon CV](https://github.com/Margal10/Margal10.github.io/files/10278796/CV-MargauxGaillard.pdf)
 
-**Ingénieure R&D – Science des matériaux et instrumentation** 
+**Ingénieure R&D – Science des matériaux et instrumentation**
 
 Je développe et pilote des projets expérimentaux en science des matériaux, depuis la conception de protocoles jusqu’à la validation de faisabilité industrielle.
 
