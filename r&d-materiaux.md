@@ -46,7 +46,7 @@ Validation expérimentale de la faisabilité du concept.
 
 Traçabilité de produits – Lutte contre la contrefaçon – Authentification de pièces industrielles
 
-<img src="/assets/img/AlgoVisuOrdi_results.png" width="600">
+<img src="/assets/img/Depot_aleatoire.png" width="600">
 
 Figure 1 : 
 
@@ -75,7 +75,7 @@ Validation expérimentale du principe d’identification basé sur l’ADN et co
 
 Traçabilité et authentification de produits – Lutte contre la contrefaçon – Marquage sécurisé de matériaux ou composants industriels
 
-<img src="/assets/img/maillage_recouvrement.png" width="600">
+<img src="/assets/img/Principe_biocapteur.pdf" width="600">
 
 Figure 2 : 
 
@@ -97,7 +97,7 @@ Identification de matériaux compatibles avec les exigences industrielles et rec
 
 Développement de matériaux durables – Emballages innovants – Substitution de matériaux conventionnels
 
-<img src="/assets/img/maillage_recouvrement.png" width="600">
+<img src="/assets/img/Matieres_Albea.png" width="600">
 
 Figure 3 : 
 
